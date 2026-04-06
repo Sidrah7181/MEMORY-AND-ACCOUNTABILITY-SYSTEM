@@ -5,4 +5,4 @@ A Python-based tool to track tasks, schedules, and personal accountability.
 - Task creation and tracking  
 - Daily reminders and logging  
 - Simple file-based storage for persistence  
-**Skills & Tools:** Python, File I/O, Data Structures, Basic CLI interface  
+**Skills & Tools:** Python, File I/O, Data Structures
